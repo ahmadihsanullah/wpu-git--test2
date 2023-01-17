@@ -13,6 +13,12 @@
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus corporis consequatur aut dicta esse aperiam
         veniam, culpa voluptatibus non, quasi illum architecto impedit. Obcaecati id facere, dolore corporis eligendi
         non.</p>
+
+    <ul>
+        <li>1</li>
+        <li>2</li>
+
+    </ul>
 </body>
 
 </html>
