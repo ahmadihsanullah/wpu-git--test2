@@ -9,6 +9,7 @@
 </head>
 
 <html>
+
 <body>
 
     <h1>hello world</h1>
@@ -21,7 +22,9 @@
         <li>2</li>
 
     </ul>
+    <?php
     echo "hello";
-   </body>
+    ?>
+</body>
 
 </html>
